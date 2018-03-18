@@ -17,9 +17,9 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/damellis/attiny/archive/6bba7d452af59d5190025bc870ec9e53d170e4d9.zip",
-          "archiveFileName": "6bba7d452af59d5190025bc870ec9e53d170e4d9.zip",
-          "checksum": "SHA-256:1654a8968fea7d599255bd18430786f9c84340606e7a678b9cf9a3cd49d94ad7",
+          "url": "https://github.com/milen100/attiny/archive/1.0.zip",
+          "archiveFileName": "attiny-1.0.zip",
+          "checksum": "SHA-256:F489426344429305FBC10356CBD7D6EA887D2A9E31A695B3250F5998DFA8091A",
           "size": "5913",
           "boards": [
             {"name": "ATtiny25"},
