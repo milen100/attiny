@@ -1,5 +1,6 @@
 ATtiny
 =======
+NOTE: This is forked from original in order to modify high fuse for attiny85 and save EEPROM contents during sketch upload!
 
 This repo contains a set of "cores" which adds support for some members of the Atmel AVR ATtiny family of microcontroller to the Arduino IDE.
 
